@@ -82,3 +82,6 @@ Each run logged the confusion matrix, evaluation metrics, and metadata (fold, mo
 - [scikit-learn documentation](https://scikit-learn.org/stable/)
 - [pandas documentation](https://pandas.pydata.org/)
 - [Wikipedia – Confusion Matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+📄 License
+This project is part of an MSc coursework in Applied Informatics. For academic reference and personal learning only.
