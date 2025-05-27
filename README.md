@@ -60,13 +60,11 @@ For each model and fold (on both train and test sets):
 
 ### 6. Performance Recording
 
-Each run logged the confusion matrix, evaluation metrics, and metadata (fold, model, balance info) into a DataFrame, then exported to `balancedDataOutcomes.csv`.
+Each run logged the confusion matrix, evaluation metrics, and metadata (fold, model, balance info) into a DataFrame, then exported to `Analysis.xlsx`.
 
 ## ✅ Key Findings
 
-- **Random Forest** was identified as the best-performing model overall, achieving:
-  - Recall ≥ 60% for bankrupt companies
-  - Specificity ≥ 70% for healthy companies
+- **Random Forest** was identified as the best-performing model overall
 - Balancing the training set improved minority class recognition without harming overall accuracy.
 
 ## 🛠️ Technologies Used
